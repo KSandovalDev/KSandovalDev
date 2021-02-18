@@ -1,6 +1,5 @@
 ### Hola 👋
 
-<!--
 
 - 🔭 I’m currently working on learning more languages
 - 👯 I’m looking to collaborate on problems worth solving!
@@ -8,4 +7,8 @@
 - 📫 How to reach me: email or Linkedin
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm also a musician
+
+<!--
+
+
 -->
