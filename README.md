@@ -6,7 +6,7 @@
 - 💬 Ask me about Tech
 - 📫 How to reach me: Email
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I love talking about financial literacy
+- ⚡ Fun fact: I love talking about F.I.R.E.
 <!--
 
 
