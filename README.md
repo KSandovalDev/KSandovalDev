@@ -1,5 +1,5 @@
 ### Hola 👋
-![](https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/source.mov)
+![](https://media.giphy.com/media/j5Dzvdrvuf9dvSkUsb/giphy.gif)
 
 - 🔭 I’m currently working on learning more languages
 - 👯 I’m looking to collaborate on problems worth solving!
