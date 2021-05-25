@@ -1,5 +1,6 @@
 ### Hola 👋
 
+![Where the pen is mightier than the sword, code is better](https://user-images.githubusercontent.com/77629303/119287629-cecf6c00-bc14-11eb-9550-575ecf5cd619.gif)
 
 - 🔭 I’m currently learning REACT & REACT Native
 - 👯 I’m looking to collaborate on problems worth solving!
